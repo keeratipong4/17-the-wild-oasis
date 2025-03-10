@@ -53,7 +53,6 @@ const GlobalStyles = createGlobalStyle`
 
   --backdrop-color: rgba(255, 255, 255, 0.1);
 
-  /* For dark mode */
   --image-grayscale: 0;
   --image-opacity: 100%;
   }
