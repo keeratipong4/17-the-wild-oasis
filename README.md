@@ -1,6 +1,9 @@
 # The Wild Oasis hotel (for employees) 🌲
 
-It’s an application for internal employees of a small boutique hotel to manage bookings, cabins and guests
+It’s an application for internal employees of a small boutique hotel to manage bookings, cabins and guests.
+
+- You have to login with this made up email chee@gmail.com and password: 12345 in order to manage bookings as if you are an employee of the hotel
+- Content might not be properly displayed on mobile phone screen. I recommend to view it on desktop mode in the browser.
 
 ## Implementation✨
 
@@ -12,7 +15,7 @@ It’s an application for internal employees of a small boutique hotel to manage
 - Implement an overview dashboard with chart and statistics allowing user to quickly see important information for the last 7, 30, or 90 days
 - Implement light mode and dark mode for display the application
 
-## Tech Stack 🙌
+## Tech Stack 🛠️
 
 - React.js
 - Vite
