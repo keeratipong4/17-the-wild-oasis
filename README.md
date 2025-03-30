@@ -7,6 +7,8 @@ It’s an application for internal employees of a small boutique hotel to manage
 
 ## Implementation✨
 
+This application required a deep understanding of Advanced React Patterns, such as the Render Props Pattern, Compound Component Pattern, and Higher-Order Components, to make reusable and flexible components like modals, filters, sorting, tables, menus, and pagination buttons.
+
 - Implement user log in feature
 - Implement back end database using Supabase
 - Provide a table view with all cabins, showing the cabin photo, name, capacity, price, and current discount as well as ability to create, edit and delete cabins
